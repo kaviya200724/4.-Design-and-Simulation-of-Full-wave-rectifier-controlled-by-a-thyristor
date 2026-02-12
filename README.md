@@ -66,5 +66,19 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1409" height="591" alt="Screenshot 2026-02-10 215540" src="https://github.com/user-attachments/assets/f36cba2b-3d9d-4d38-ab2a-abf5ac264848" />
+
+
+
+
 ## Output
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/f07da2e2-20cb-40fd-95c0-1fcaab7ac183" />
+
+
+
+
+
 ## Result
+
+
+Thus, the Full wave rectifier is controlled by a  thyristor by using  MATLAB simulink 
